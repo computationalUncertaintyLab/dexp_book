@@ -6,4 +6,4 @@ root: intro
 chapters:
 - file: EDA_01.ipynb
 - file: Homework01.ipynb
-- file: Chapter 02: Data, Dataframes, and Pandas.ipynb
+- file: C2 data_pandas.ipynb
