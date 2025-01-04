@@ -2,4 +2,4 @@ jupyter-book
 matplotlib
 numpy
 pandas
-import scipy
+scipy
