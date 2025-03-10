@@ -16,3 +16,5 @@ chapters:
 - file: ch6_randomvars.ipynb
 - file: Homework05.ipynb
 - file: Homework06.ipynb
+- caption: Probability templates
+- file: Bernoulli_Binomial_Poisson.ipynb
