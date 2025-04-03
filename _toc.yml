@@ -5,18 +5,19 @@ format: jb-book
 root: intro
 chapters:
 - file: EDA_01.ipynb
-- file: Homework01.ipynb
 - file: C2 data_pandas.ipynb
-- file: Homework02.ipynb
 - file: Chap3_Dataviz.ipynb
-- file: Homework03.ipynb
 - file: chapter4__split_apply_combine_and_merging.ipynb
-- file: Homework04.ipynb
 - file: Ch5_sets_samplespace.ipynb
 - file: ch6_randomvars.ipynb
+- file: Transformations.ipynb
+- file: Bernoulli_Binomial_Poisson.ipynb
+- file: Homework01.ipynb
+- file: Homework02.ipynb
+- file: Homework03.ipynb
+- file: Homework04.ipynb
 - file: Homework05.ipynb
 - file: Homework06.ipynb
-- file: Bernoulli_Binomial_Poisson.ipynb
 - file: Homework07.ipynb
 - file: Homework08.ipynb
 - file: Common_Dists.ipynb
