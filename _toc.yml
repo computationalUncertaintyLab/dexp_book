@@ -5,7 +5,6 @@ format: jb-book
 root: intro
 chapters:
 - file: EDA_01.ipynb
-- file: C2 data_pandas.ipynb
 - file: Chap3_Dataviz.ipynb
 - file: chapter4__split_apply_combine_and_merging.ipynb
 - file: Ch5_sets_samplespace.ipynb
