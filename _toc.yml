@@ -9,15 +9,15 @@ chapters:
 - file: chapter4__split_apply_combine_and_merging.ipynb
 - file: Ch5_sets_samplespace.ipynb
 - file: ch6_randomvars.ipynb
-- file: Transformations.ipynb
 - file: Bernoulli_Binomial_Poisson.ipynb
+- file: Transformations.ipynb
 - file: Joint_probability.ipynb 
 - file: Forward problem01.ipynb
 - file: ForwardSim.ipynb
 - file: Homework01.ipynb
 - file: Homework02.ipynb
 - file: Homework03.ipynb
-#- file: Homework05.ipynb
+- file: Homework04.ipynb
 #- file: Homework06.ipynb
 #- file: Homework07.ipynb
 #- file: Homework08.ipynb
