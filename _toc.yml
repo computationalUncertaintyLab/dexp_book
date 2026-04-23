@@ -12,7 +12,8 @@ chapters:
 - file: Bernoulli_Binomial_Poisson.ipynb
 - file: Transformations.ipynb
 - file: Normal.ipynb
-- file: Joint_probability.ipynb 
+- file: Joint_probability.ipynb
+- file: MVN.ipynb
 - file: Forward problem01.ipynb
 - file: ForwardSim.ipynb
 - file: Homework01.ipynb
