@@ -23,7 +23,7 @@ chapters:
 - file: Homework05.ipynb
 - file: Homework06.ipynb
 - file: Homework07.ipynb
-#- file: Homework08.ipynb
+- file: final-for_students.ipynb
 #- file: Homework09.ipynb
 #- file: Final_Spring2025.ipynb
 #- file: Common_Dists.ipynb
